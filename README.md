@@ -1,12 +1,12 @@
 POE_ST10090034_PROG
  
-##Program 
+## Program 
 This program is a budget planner
 
-##Description
+## Description
 It calculates property monthly repayments, vehicle monthly repayment plus insurance but more is to come in part 3 of the POE
 
-##Usage
+## Usage
 No external library is needed to run this program, simply executing will do the job.
 
 Feel free to check out my GitHub repository by clicking the link below.
